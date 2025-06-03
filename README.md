@@ -7,7 +7,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Math-web-programmer&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Math-web-programmer&size_weight=0.5&count_weight=0.5&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Math-web-programmer&size_weight=0.5&count_height150&theme=dracula)
 
 <div style="display: inline-block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
