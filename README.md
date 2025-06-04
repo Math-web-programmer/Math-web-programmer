@@ -6,7 +6,7 @@
 🚧 Em constante aprendizado, aberto a desafios e novas experiências na área tech.
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Math-web-programmer&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Math-web-programmer&show_icons=true&theme=dracula&include_all_commits&pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Math-web-programmer&size_weight=0.5&count_height150&theme=dracula)
 
 <div style="display: inline-block">
