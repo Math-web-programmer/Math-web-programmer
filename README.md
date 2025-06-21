@@ -1,7 +1,7 @@
 ## Oi, Meu nome é Matheus, Futuro Desenvolvedor-Web👋
 
 <p>
-🎯 Estudante de desenvolvimento web focado em JavaScript, com base sólida em HTML e CSS.<br>
+🎯 Estudante de Administração e desenvolvimento web focado em JavaScript, com base sólida em HTML e CSS.<br>
 💡 Buscando dominar o front-end enquanto exploro a programação como um todo.<br>
 🚧 Em constante aprendizado, aberto a desafios e novas experiências na área tech.
 </p>
